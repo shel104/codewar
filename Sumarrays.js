@@ -17,3 +17,5 @@ console.log(sum([1, 2, 3, 4, 5]), 15);
 console.log(sum([-2, 343]), 341);
 console.log(sum([-2.5, 3.5, -4.5]), -2.5);
 console.log(sum([0, 0, 0, 0, 0]), 0);
+
+//document.write("\n");
