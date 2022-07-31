@@ -13,3 +13,4 @@ console.log(Challenge.solution(30));
 console.log(Challenge.solution(40));
 console.log(Challenge.solution(50));
 console.log(Challenge.solution(60));
+console.log(Challenge.solution(70));
